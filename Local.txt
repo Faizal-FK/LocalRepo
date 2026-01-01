@@ -1,1 +1,7 @@
 hello this is new reop from Local repo folder
+<<<<<<<<<<<<<<<<<<Commands of branches>>>>>>>>>>>>>>>>>>
+git branch (show branches)
+git branch -m ....(rename)
+git checkout <branch Name > (for Travel one to another )
+git checkout -b <name> (for Create New branch)
+git branch -d <name> (Delete branch if your not in that branch)
